@@ -1,0 +1,37 @@
+#title img{
+    display: inline-block;
+    margin: 10px;
+    border: 1px solid black;
+    text-align: center;
+    width: 200px;
+    height: 250px; 
+}
+
+.story p{
+    display: inline-block;
+    margin: 10px;
+    border: 1px solid black;
+    width: 250px;
+    height: 100px;
+    text-align: center;
+    background-color: rgb(114, 12, 38);
+    color: white;
+}
+#title, .story{
+    text-align: center;
+}
+#head{
+    background-color: red;
+    text-align: center;
+    margin: 0px auto;
+}
+
+#title h2{
+    margin: 10px 550px 10px 550px !important;
+    margin: 10px;
+    border: 1px solid black;
+}
+form{
+    text-align: center;
+    font-size: 30px;
+}
